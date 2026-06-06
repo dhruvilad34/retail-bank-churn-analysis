@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data files (use Git LFS or just exclude raw)
+data/*.db
+
+# Mac files
+.DS_Store
