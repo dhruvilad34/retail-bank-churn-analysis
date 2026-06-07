@@ -1,0 +1,5 @@
+card_type,total,churned,churn_rate_pct,avg_points
+Diamond,2507,546,21.78,606.0
+Platinum,2495,508,20.36,609.0
+Silver,2496,502,20.11,604.0
+Gold,2502,482,19.26,607.0
